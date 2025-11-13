@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poosic
 - 👀 I’m interested in Pwnable, mobile
-- 🌱 I’m currently learning Android OS
+- 🌱 I’m currently learning Automotive
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
